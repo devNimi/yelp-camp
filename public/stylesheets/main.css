@@ -24,6 +24,7 @@ body {
 /* Thumbnail styles */
 .thumbnail img {
     width: 100%;
+    background-color: #eeeeee;
 }
 
 .thumbnail {
